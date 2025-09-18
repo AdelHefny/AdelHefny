@@ -37,6 +37,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 🖼️ Frontend Frameworks & Libraries
 
@@ -129,7 +130,7 @@ A responsive website for an eSports team with dynamic content and intuitive navi
 
 ### 🏅 Achievements
 
-- **Codeforces Pupil** with 1000+ problems solved covering diverse algorithms (DP, Graphs, Greedy, etc.)
+- **Codeforces Specialist** with 1000+ problems solved covering diverse algorithms (DP, Graphs, Greedy, etc.)
 - **ECPC Participant** (Egyptian Collegiate Programming Contest)
 - **Git & GitHub Course Instructor** at Flashat CU
 
@@ -163,4 +164,4 @@ A responsive website for an eSports team with dynamic content and intuitive navi
 
 Credit: [AdelHefny](https://github.com/AdelHefny)
 
-Last Edited on: 11/05/2025
+Last Edited on: 18/09/2025
