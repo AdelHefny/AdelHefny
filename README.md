@@ -164,7 +164,7 @@ A responsive website for an eSports team with dynamic content and intuitive navi
 
 <div align="center">
 <a href="mailto:adelahmedhefny@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/adel-hefny-75b6601bb"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/adel-hefny"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
