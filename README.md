@@ -20,7 +20,7 @@
 - 💼 **Full Stack Engineer at LyRise**, specializing in Multi-Agent AI Orchestration, GenAI, and scalable web applications.
 - 👨‍💻 Passionate about building intelligent backend systems, AI workflows, and interactive 3D web experiences.
 - 💬 Ask me about Agentic AI, RAG workflows, API development, or full-stack integration.
-- 🌱 I'm currently building my _[Interactive 3D Portfolio](https://github.com/AdelHefny/my-portfolio)_ using Next.js & React Three Fiber and diving deeper into _Advanced AI Systems_.
+- 🌱 I'm currently building my _[Interactive 3D Portfolio]([https://github.com/AdelHefny/my-portfolio](https://portfolio-two-plum-79.vercel.app/))_ using Next.js & React Three Fiber and diving deeper into _Advanced AI Systems_.
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
