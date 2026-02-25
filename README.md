@@ -17,10 +17,10 @@
 
 ---
 
-- 👨‍💻 As a Full-Stack Developer, I'm passionate about building robust and scalable web applications with a current focus on backend technologies.
-- 💬 Ask me about my experience with backend architecture, API development, database design, or full-stack integration.
-- 🌱 I'm currently diving deeper into _[Advanced Backend Systems](https://roadmap.sh/backend)_ and _[Cloud Infrastructure](https://aws.amazon.com/getting-started/cloud-essentials/)_
-
+- 💼 **Full Stack Engineer at LyRise**, specializing in Multi-Agent AI Orchestration, GenAI, and scalable web applications.
+- 👨‍💻 Passionate about building intelligent backend systems, AI workflows, and interactive 3D web experiences.
+- 💬 Ask me about Agentic AI, RAG workflows, API development, or full-stack integration.
+- 🌱 I'm currently building my _[Interactive 3D Portfolio](https://github.com/AdelHefny/my-portfolio)_ using Next.js & React Three Fiber and diving deeper into _Advanced AI Systems_.
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
@@ -46,11 +46,19 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+#### 🤖 AI & Data
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
 #### 📊 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFDB58?style=for-the-badge&logo=chroma&logoColor=black)
 
 #### 🔧 Tools
 
@@ -61,27 +69,28 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📂 Featured Projects
+## 📂 Featured Projects & Experience
 
-### [Bonds & Fixes](https://bondsandfixes-kc36l7o95-adelhifnys-projects.vercel.app/)
-A full-stack web application for managing maintenance requests with robust backend architecture.
-- **Tech Stack**: Node.js, Express.js, MongoDB, JavaScript, Bootstrap
-- **Features**: Custom API design, CRUD operations, user authentication, form validation
+### 🚀 LyRise - Full Stack Engineer (Multi-Agent System)
+Architected and engineered a 4-stage headless modeling agent system to automate the conversion of unstructured data into enterprise-grade workflows.
+- **Tech Stack**: React, Vite, Zustand, LLMs, LangChain
+- **Features**: Generative UI, Hierarchical state management, Autonomous workflow optimization
 
-### [ML Library](https://github.com/AdelHefny/ML-libary)
-A custom machine learning library built in Java as part of software engineering coursework.
-- **Tech Stack**: Java, Object-Oriented Programming
-- **Features**: Implementation of core ML algorithms and data processing tools
+### 🧠 Xperienced (CU-AI Nexus Hackathon)
+A GenAI-powered mentorship platform utilizing Retrieval-Augmented Generation (RAG) and Agentic AI for pose-detection and Arabic feedback generation.
+- **Tech Stack**: ChromaDB, React
+- **Features**: Vector Search, RAG virtual mentor, Paymob integration
 
-### [Resume Builder](https://pro-creds.vercel.app/)
+### 📝 [Resume Builder](https://pro-creds.vercel.app/)
 A dynamic resume builder application that allows users to customize and download professional resumes.
-- **Tech Stack**: React.js, Tailwind CSS
+- **Tech Stack**: React.js, Tailwind CSS, Firebase
 - [GitHub Repository](https://github.com/AdelHefny/ProCreds)
 
-### [eSports Team Website](https://e-sports-team.vercel.app/)
+### 🎮 [eSports Team Website](https://e-sports-team.vercel.app/)
 A responsive website for an eSports team with dynamic content and intuitive navigation.
 - **Tech Stack**: Next.js, Tailwind CSS
 - [GitHub Repository](https://github.com/Adelhifny/e_sports_team)
+
 
 ## 📊 Profile Statistics
 
@@ -158,10 +167,8 @@ A responsive website for an eSports team with dynamic content and intuitive navi
 <a href="https://www.linkedin.com/in/adel-hefny-75b6601bb"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
-
 ---
 
 Credit: [AdelHefny](https://github.com/AdelHefny)
 
-Last Edited on: 18/09/2025
+Last Edited on: 25/02/2026
