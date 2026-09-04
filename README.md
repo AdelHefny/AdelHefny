@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Applied%20Science%20Intern%20@%20Microsoft;Full%20Stack%20Engineer%20@%20LyRise;Agentic%20AI%20&%20Deep%20Learning;Competitive%20Programmer;Always%20building%20scalable%20systems%20%F0%9F%9A%80&;ACfont=Fira%20Code&center=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ex-Applied%20Science%20Intern%20@%20Microsoft;Full%20Stack%20Engineer%20@%20LyRise;Agentic%20AI%20&%20Deep%20Learning;Competitive%20Programmer;Always%20building%20scalable%20systems%20%F0%9F%9A%80&;ACfont=Fira%20Code&center=true&width=500&height=45"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-- 💼 **Applied Science Intern at Microsoft** & **Full Stack Engineer at LyRise**.
+- 💼 **Full Stack Engineer at LyRise** | Former **Applied Science Intern at Microsoft**.
 - 🤖 Specialized in **Multi-Agent AI Orchestration**, **LLM Evals**, **RAG**, and **Deep Learning** (Vision Transformers, CNNs).
 - 🧩 Competitive programmer with **1,000+ Codeforces problems solved** and an **ICPC Certificate**.
 - 👨‍💻 Passionate about bridging cutting-edge AI research with scalable enterprise full-stack engineering.
@@ -84,11 +84,12 @@
 ## 📂 Featured Experience & Projects
 
 ### 💼 Professional Experience
-* **Microsoft — Applied Science Intern** *(July 2026 – Present)*
-  * Developing and optimizing enterprise-scale AI/ML solutions (NLP, LLMs, RAG, agent-based systems) for real-world deployment.
 * **LyRise — Full Stack Engineer** *(Feb 2026 – Present)*
   * Engineered a 4-stage multi-agent system (Extractor, Supervisor, Architect, Analyst) and an autonomous optimization engine with LLM Evals.
   * Authored Alembic migrations for multi-tenant schemas and built high-performance data ingestion pipelines.
+* **Microsoft — Applied Science Intern** *(July 2026 – August 2026)*
+  * Developed and optimized enterprise-scale AI/ML solutions (NLP, LLMs, RAG, agent-based systems) for real-world deployment.
+  * Bridged advanced AI research with production-grade engineering to build reliable, high-impact systems.
 
 ### 🧠 Cutting-Edge AI Projects
 * **Advanced Brain Tumor Segmentation Pipeline**
