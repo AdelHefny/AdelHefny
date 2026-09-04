@@ -17,12 +17,12 @@
 
 ---
 
-- [cite_start]💼 **Applied Science Intern at Microsoft** & **Full Stack Engineer at LyRise**[cite: 16, 17, 22, 23].
-- [cite_start]🤖 Specialized in **Multi-Agent AI Orchestration**, **LLM Evals**, **RAG**, and **Deep Learning** (Vision Transformers, CNNs)[cite: 5, 6, 21, 25, 26, 51].
-- [cite_start]🧩 Competitive programmer with **1,000+ Codeforces problems solved** and an **ICPC Certificate**[cite: 4, 12].
-- [cite_start]👨‍💻 Passionate about bridging cutting-edge AI research with scalable enterprise full-stack engineering[cite: 7, 19].
-- [cite_start]💬 Ask me about Agentic AI, RAG pipelines, system architecture, or full-stack integration[cite: 5, 6, 21, 76].
-- [cite_start]🌐 Explore my portfolio: **[adelhefny.top](https://adelhefny.top/)** [cite: 2]
+- 💼 **Applied Science Intern at Microsoft** & **Full Stack Engineer at LyRise**.
+- 🤖 Specialized in **Multi-Agent AI Orchestration**, **LLM Evals**, **RAG**, and **Deep Learning** (Vision Transformers, CNNs).
+- 🧩 Competitive programmer with **1,000+ Codeforces problems solved** and an **ICPC Certificate**.
+- 👨‍💻 Passionate about bridging cutting-edge AI research with scalable enterprise full-stack engineering.
+- 💬 Ask me about Agentic AI, RAG pipelines, system architecture, or full-stack integration.
+- 🌐 Explore my portfolio: **[adelhefny.top](https://adelhefny.top/)**
 
 ---
 
@@ -84,21 +84,21 @@
 ## 📂 Featured Experience & Projects
 
 ### 💼 Professional Experience
-* [cite_start]**Microsoft — Applied Science Intern** *(July 2026 – Present)* [cite: 16, 17, 18]
-  * [cite_start]Developing and optimizing enterprise-scale AI/ML solutions (NLP, LLMs, RAG, agent-based systems) for real-world deployment[cite: 20, 21].
-* [cite_start]**LyRise — Full Stack Engineer** *(Feb 2026 – Present)* [cite: 22, 23, 24]
-  * [cite_start]Engineered a 4-stage multi-agent system (Extractor, Supervisor, Architect, Analyst) and an autonomous optimization engine with LLM Evals[cite: 25, 26].
-  * [cite_start]Authored Alembic migrations for multi-tenant schemas and built high-performance data ingestion pipelines[cite: 27, 28].
+* **Microsoft — Applied Science Intern** *(July 2026 – Present)*
+  * Developing and optimizing enterprise-scale AI/ML solutions (NLP, LLMs, RAG, agent-based systems) for real-world deployment.
+* **LyRise — Full Stack Engineer** *(Feb 2026 – Present)*
+  * Engineered a 4-stage multi-agent system (Extractor, Supervisor, Architect, Analyst) and an autonomous optimization engine with LLM Evals.
+  * Authored Alembic migrations for multi-tenant schemas and built high-performance data ingestion pipelines.
 
 ### 🧠 Cutting-Edge AI Projects
-* [cite_start]**Advanced Brain Tumor Segmentation Pipeline** [cite: 48]
-  * [cite_start]Big data pipeline (116GB) processing 3D multi-modal MRI scans via Swin-UNet Vision Transformers and Categorical Focal Loss[cite: 50, 51, 52].
-* [cite_start]**Autonomous Vehicle Perception Module** [cite: 42]
-  * [cite_start]End-to-end perception models using CNNs, Transfer Learning, LSTM with Attention, and DCGANs for synthetic scenario generation[cite: 44, 46].
-* [cite_start]**Xperienced (CU-AI Nexus Hackathon — 5th Place)** [cite: 54, 60]
-  * [cite_start]GenAI-powered mentorship platform with ChromaDB RAG, pose-detection body-language analysis, and Paymob payments[cite: 56, 57, 58].
-* [cite_start]**[Resume Builder (ProCreds)](https://pro-creds.vercel.app/)** [cite: 62, 68]
-  * [cite_start]Full-stack resume generator built with React.js, Next.js, Tailwind CSS, and Firebase BaaS[cite: 65, 67].
+* **Advanced Brain Tumor Segmentation Pipeline**
+  * Big data pipeline (116GB) processing 3D multi-modal MRI scans via Swin-UNet Vision Transformers and Categorical Focal Loss.
+* **Autonomous Vehicle Perception Module**
+  * End-to-end perception models using CNNs, Transfer Learning, LSTM with Attention, and DCGANs for synthetic scenario generation.
+* **Xperienced (CU-AI Nexus Hackathon — 5th Place)**
+  * GenAI-powered mentorship platform with ChromaDB RAG, pose-detection body-language analysis, and Paymob payments.
+* **[Resume Builder (ProCreds)](https://pro-creds.vercel.app/)**
+  * Full-stack resume generator built with React.js, Next.js, Tailwind CSS, and Firebase BaaS.
 
 ---
 
@@ -127,27 +127,27 @@
 
 ### 🏅 Achievements & Recognition
 
-- [cite_start]**ICPC Certificate** & **1000+ Codeforces algorithmic problems solved**[cite: 4, 12].
-- [cite_start]**5th Place Finalist** — CU-AI Nexus Hackathon 2025[cite: 14].
-- [cite_start]**Technical Instructor** at Flashat CU (delivered Git & GitHub courses to 30+ students)[cite: 13].
+- **ICPC Certificate** & **1000+ Codeforces algorithmic problems solved**.
+- **5th Place Finalist** — CU-AI Nexus Hackathon 2025.
+- **Technical Instructor** at Flashat CU (delivered Git & GitHub courses to 30+ students).
 
 ---
 
 ### 🎓 Education
 
-- **Bachelor's in Artificial Intelligence** — Cairo University *(2023 – 2027)* | [cite_start]**GPA: 3.3** [cite: 9, 10, 11]
+- **Bachelor's in Artificial Intelligence** — Cairo University *(2023 – 2027)* | **GPA: 3.3**
 
 ---
 
 ### 🎯 Certifications
 
 - **DeepLearning.AI**:
-  - [cite_start]Structuring Machine Learning Projects *(May 2026)* [cite: 79, 80]
-  - [cite_start]Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization *(May 2026)* [cite: 81, 82]
-  - [cite_start]Neural Networks and Deep Learning *(Apr 2026)* [cite: 83, 84]
-- [cite_start]**DataCamp**: Introduction to Deep Learning with PyTorch *(Mar 2026)* [cite: 85, 87]
-- [cite_start]**Huawei**: HCIA-AI V4.0 *(Nov 2025)* [cite: 88]
-- [cite_start]**Meta**: Advanced React & React Basics *(Aug 2023)* [cite: 89]
+  - Structuring Machine Learning Projects *(May 2026)*
+  - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization *(May 2026)*
+  - Neural Networks and Deep Learning *(Apr 2026)*
+- **DataCamp**: Introduction to Deep Learning with PyTorch *(Mar 2026)*
+- **Huawei**: HCIA-AI V4.0 *(Nov 2025)*
+- **Meta**: Advanced React & React Basics *(Aug 2023)*
 
 ---
 
